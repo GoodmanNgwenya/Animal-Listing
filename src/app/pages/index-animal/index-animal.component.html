@@ -1,0 +1,29 @@
+<div class="card">
+    <div class="card-header">
+       Animals
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table" *ngIf='animals && animals.length'>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>AnimalType</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor='let animal of animals'>
+                        <!-- <td><img [src]='item.imageUrl' [title]='item.itemHeader' [style.width.px]='imageWidth'
+                                [style.margin.px]='imageMargin'>
+                        </td> -->
+                        <td>{{animal.animalName}}</td>
+                        <td> {{animal.type}}</td>
+
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

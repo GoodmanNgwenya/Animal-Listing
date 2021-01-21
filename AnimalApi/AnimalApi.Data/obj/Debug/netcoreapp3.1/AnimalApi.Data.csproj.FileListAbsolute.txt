@@ -10,3 +10,15 @@ C:\MIE\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi
 C:\MIE\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi.Data.dll
 C:\MIE\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi.Data.pdb
 C:\MIE\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi.Data.genruntimeconfig.cache
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\bin\Debug\netcoreapp3.1\AnimalApi.Data.deps.json
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\bin\Debug\netcoreapp3.1\AnimalApi.Data.runtimeconfig.json
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\bin\Debug\netcoreapp3.1\AnimalApi.Data.runtimeconfig.dev.json
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\bin\Debug\netcoreapp3.1\AnimalApi.Data.dll
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\bin\Debug\netcoreapp3.1\AnimalApi.Data.pdb
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi.Data.csprojAssemblyReference.cache
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi.Data.AssemblyInfoInputs.cache
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi.Data.AssemblyInfo.cs
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi.Data.csproj.CoreCompileInputs.cache
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi.Data.dll
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi.Data.pdb
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.Data\obj\Debug\netcoreapp3.1\AnimalApi.Data.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj": {}
+    "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj": {}
   },
   "projects": {
-    "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj": {
+    "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj",
+        "projectUniqueName": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj",
         "projectName": "AnimalApi.ViewModels",
-        "projectPath": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj",
+        "projectPath": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj",
         "packagesPath": "C:\\Users\\goodm\\.nuget\\packages\\",
-        "outputPath": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\obj\\",
+        "outputPath": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

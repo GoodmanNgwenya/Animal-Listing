@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj": {}
+    "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj": {}
   },
   "projects": {
-    "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj": {
+    "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj",
+        "projectUniqueName": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj",
         "projectName": "AnimalApi.Data",
-        "projectPath": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj",
+        "projectPath": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj",
         "packagesPath": "C:\\Users\\goodm\\.nuget\\packages\\",
-        "outputPath": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\obj\\",
+        "outputPath": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

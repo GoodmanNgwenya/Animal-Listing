@@ -7,3 +7,12 @@ C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\Ani
 C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.csproj.CoreCompileInputs.cache
 C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.dll
 C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.pdb
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.ViewModels\bin\Debug\netcoreapp3.1\AnimalApi.ViewModels.deps.json
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.ViewModels\bin\Debug\netcoreapp3.1\AnimalApi.ViewModels.dll
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.ViewModels\bin\Debug\netcoreapp3.1\AnimalApi.ViewModels.pdb
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.csprojAssemblyReference.cache
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.AssemblyInfoInputs.cache
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.AssemblyInfo.cs
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.csproj.CoreCompileInputs.cache
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.dll
+C:\App Info\Animal-Listing\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.pdb

@@ -1,0 +1,35 @@
+<div class="card">
+    <div class="card-header">
+       Animals
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table" *ngIf='animals && animals.length'>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Name</th>
+                        <th>AnimalType</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor='let animal of animals'>
+                        <td>{{animal.id}}</td>
+                        <td>{{animal.animalName}}</td>
+                        <td> {{animal.type}}</td>
+                        <td><button class="btn btn-outline-primary btn-sm" [routerLink]="['/editAnimal', animal.id, 'edit']" [disabled]="loading">
+                            <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                            Edit
+                        </button></td>
+                        <td><button class="btn btn-danger"  (click)="deleteAnimal(animal.id)" [disabled]="loading">
+                            <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                            Delete
+                        </button></td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

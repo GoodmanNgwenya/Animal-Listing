@@ -5000,11 +5000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi\\AnimalApi.csproj",
+      "projectUniqueName": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi\\AnimalApi.csproj",
       "projectName": "AnimalApi",
-      "projectPath": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi\\AnimalApi.csproj",
+      "projectPath": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi\\AnimalApi.csproj",
       "packagesPath": "C:\\Users\\goodm\\.nuget\\packages\\",
-      "outputPath": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi\\obj\\",
+      "outputPath": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5025,11 +5025,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj": {
-              "projectPath": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj"
+            "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj": {
+              "projectPath": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.Data\\AnimalApi.Data.csproj"
             },
-            "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj": {
-              "projectPath": "C:\\MIE\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj"
+            "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj": {
+              "projectPath": "C:\\App Info\\Animal-Listing\\Animal-Listing\\AnimalApi\\AnimalApi.ViewModels\\AnimalApi.ViewModels.csproj"
             }
           }
         }

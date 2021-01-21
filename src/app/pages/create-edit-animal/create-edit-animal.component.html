@@ -1,0 +1,48 @@
+<div class="card">
+    <div class="card-header">
+        <h1 *ngIf="isAddMode">Add Animal</h1>
+        <h1 *ngIf="!isAddMode">Edit Animal</h1>
+    </div>
+    <div class="card-body">
+        <form [formGroup]="animalForm" (ngSubmit)="onSubmit()">
+            <div class="form-group row mb-2">
+                <label class="col-md-2 col-form-label" for="animalNameId">Name</label>
+                <div class="col-md-8">
+                    <input class="form-control" id="animalNameId" type="text" placeholder="Name"
+                        formControlName="animalName"
+                        [ngClass]="{ 'is-invalid': submitted && f.animalName.errors }" />
+                    <div *ngIf="submitted && f.animalName.errors" class="invalid-feedback">
+                        <div *ngIf="f.animalName.errors.required">Animal Text is required</div>
+                        <div *ngIf="f.animalName.errors.pattern">Incorrect input value</div>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row mb-2">
+                <label class="col-md-2 col-form-label" for="typeId">Animal Type</label>
+                <div class="col-md-8">
+                    <input class="form-control" id="typeId" type="text" placeholder="Animal Type"
+                        formControlName="type"
+                        [ngClass]="{ 'is-invalid': submitted && f.type.errors }" />
+                    <div *ngIf="submitted && f.type.errors" class="invalid-feedback">
+                        <div *ngIf="f.type.errors.required">Animal  Text is required</div>
+                        <div *ngIf="f.type.errors.pattern">Incorrect input value</div>
+                    </div>
+                </div>
+            </div>
+           
+            <div class="form-group row mb-2">
+                <div class="offset-md-2 col-md-6">
+                    <!-- <app-upload (onUploadFinished)="uploadFinished($event)"></app-upload> -->
+                    <button class="btn btn-primary mr-3" type="submit" [disabled]="loading">
+                        <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                        Save
+                    </button>
+                    <button class="btn btn-outline-secondary mr-3" type="button" title="Cancel your edits"
+                        routerLink="/index">
+                        Cancel
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
