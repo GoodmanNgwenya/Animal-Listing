@@ -1,0 +1,9 @@
+C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\bin\Debug\netcoreapp3.1\AnimalApi.ViewModels.deps.json
+C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\bin\Debug\netcoreapp3.1\AnimalApi.ViewModels.dll
+C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\bin\Debug\netcoreapp3.1\AnimalApi.ViewModels.pdb
+C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.csprojAssemblyReference.cache
+C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.AssemblyInfoInputs.cache
+C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.AssemblyInfo.cs
+C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.csproj.CoreCompileInputs.cache
+C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.dll
+C:\MIE\Animal-Listing\AnimalApi\AnimalApi.ViewModels\obj\Debug\netcoreapp3.1\AnimalApi.ViewModels.pdb
